@@ -1,3 +1,5 @@
 django==5.1
 djangorestframework==3.15.2
 google-api-python-client==2.142
+python_dotenv==1.0.1
+django-cors-headers==4.4.0
